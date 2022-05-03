@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-    cout<<"CRACK your Internship";
+    cout<<"CRACK your Internship ";
     return 0;
 }
